@@ -1,1 +1,0 @@
-../../fact/compare/compare.py

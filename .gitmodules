@@ -1,3 +1,10 @@
 [submodule "core"]
 	path = core
 	url = ./core
+[submodule "portal"]
+	path = portal
+	url = ./portal
+[submodule "staging"]
+	url = staging
+	url = ./staging
+	path = staging

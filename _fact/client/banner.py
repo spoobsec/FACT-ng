@@ -1,1 +1,0 @@
-../../fact/config/ascii.py

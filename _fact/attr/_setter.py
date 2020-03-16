@@ -1,1 +1,0 @@
-../../fact/statistic/setter.py

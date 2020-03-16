@@ -1,1 +1,0 @@
-../../fact/install/frontend.py

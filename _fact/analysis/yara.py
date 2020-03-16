@@ -1,1 +1,0 @@
-fact/analysis/YaraPluginBase.py
